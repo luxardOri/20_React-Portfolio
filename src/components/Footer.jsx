@@ -1,16 +1,17 @@
 import React, { useState } from "react";
 import { useTheme } from "../utils/ThemeContext";
-import Nav from "./Nav";
+import "bootstrap-icons/font/bootstrap-icons.css";
 
-function Header(props) {
+function Footer(props) {
   const { theme } = useTheme();
   console.log(theme);
   return (
     <div style={{ backgroundColor: props.bgColor }}>
-      <h1>{props.title}</h1>
-      <Nav />
+      <a href="https://github.com/luxardOri">
+        <i class="bi bi-github bi-2x"></i>
+      </a>
     </div>
   );
 }
 
-export default Header;
+export default Footer;
