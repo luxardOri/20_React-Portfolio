@@ -7,7 +7,7 @@ function Header(props) {
   console.log(theme);
   return (
     <div style={{ backgroundColor: props.bgColor }}>
-      <h1>{props.title}</h1>
+      <h1>Luxard: {props.title}</h1>
       <Nav />
     </div>
   );

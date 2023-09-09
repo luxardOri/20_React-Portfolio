@@ -13,6 +13,9 @@ function Footer(props) {
       <a href="https://www.linkedin.com/in/bshimizu/">
         <i class="bi bi-linkedin"></i>
       </a>
+      <a href="https://www.instagram.com/luxardori/">
+        <i class="bi bi-instagram"></i>
+      </a>
     </div>
   );
 }
