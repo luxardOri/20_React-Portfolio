@@ -31,11 +31,7 @@ Step 2b: You can also use the link below for a live production view of the page.
 
 ## Usage
 
-![alt text](assets/images/homePage.jpg)
-
-![alt text](assets/images/login.jpg)
-
-![alt text](assets/images/signUp.jpg)
+![alt text](src/assets/images/aboutMePage.jpg)
 
 github Link: https://github.com/luxardOri/20_React-Portfolio
 
