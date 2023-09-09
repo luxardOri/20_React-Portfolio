@@ -8,7 +8,7 @@ function Portfolio() {
   return (
     <div>
       <Header title="Portfolio" bgColor="#B07C9E" />
-      <div style={{ color: fontColor }}>This is where my portfolio goes!</div>
+      <br />
       <Project />
       <Footer title="Portfolio" bgColor="#B07C9E" />
     </div>

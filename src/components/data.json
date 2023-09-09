@@ -1,17 +1,37 @@
 [
     {
-        "title": "Thank you for Visiting",
-        "img": "assets/myimg.png",
-        "description": "its cool"
+        "title": "Password Generator",
+        "img": "src/assets/images/passwordGenerator.jpg",
+        "liveLink": "https://luxardori.github.io/03_password-generator/",
+        "githubLInk": "https://github.com/luxardOri/03_password-generator",
+        "description": "Password generator screenshot"
     },
     {
-        "title": "project2",
-        "img": "assets/myimg.png",
-        "description": "its cool"
-    }, 
-    {
-        "title": "project3",
-        "img": "assets/myimg.png",
-        "description": "its cool"
+        "title": "ReadMe Generator",
+        "img": "src/assets/images/runningIndexFile.jpg",
+        "githubLInk": "https://github.com/luxardOri/09_README-Generator",
+        "description": "ReadMe Generator Screenshot"
+    },{
+        "title": "Work Day Scheduler",
+        "img": "src/assets/images/05-third-party-apis-homework-demo.gif",
+        "liveLink": "https://luxardori.github.io/05_work-day-scheduler",
+        "githubLInk": "https://github.com/luxardOri/05_work-day-scheduler",
+        "description": "Work day scheduler screenshot"
+    },{
+        "title": "Logo Generator",
+        "img": "src/assets/images/logo_generator.gif",
+        "githubLInk": "https://github.com/luxardOri/10_logo-generator",
+        "description": "Logo generator screenshot"
+    },{
+        "title": "PWA Text Editor",
+        "img": "src/assets/images/jate_editor.jpg",
+        "liveLink": "https://pwa-text-editor-lux-f0fb8892bb51.herokuapp.com/",
+        "githubLInk": "https://github.com/luxardOri/19_PWA-Text-Editor",
+        "description": "PWA Text Editor screenshot"
+    },{
+        "title": "E-Commerce-Back-End",
+        "img": "src/assets/images/api_routes.jpg",
+        "githubLInk": "https://github.com/luxardOri/13_E-Commerce-Back-End",
+        "description": "Note Taker screenshot"
     }
 ]
