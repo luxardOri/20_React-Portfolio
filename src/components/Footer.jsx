@@ -8,7 +8,10 @@ function Footer(props) {
   return (
     <div style={{ backgroundColor: props.bgColor }}>
       <a href="https://github.com/luxardOri">
-        <i class="bi bi-github bi-2x"></i>
+        <i class="bi bi-github"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/bshimizu/">
+        <i class="bi bi-linkedin"></i>
       </a>
     </div>
   );
